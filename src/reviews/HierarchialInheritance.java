@@ -18,7 +18,7 @@ class Went extends Going
    public void depamt()
    {
       System.out.println("Dposit amt:"+depamt);
-      
+       
       avabal=avabal+depamt;
       
       System.out.println("Total Available balance is:"+avabal);
